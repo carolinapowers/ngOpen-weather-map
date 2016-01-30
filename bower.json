@@ -1,0 +1,21 @@
+{
+  "name": "open-weather-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/carolinapowers/ngFlickrSearch",
+  "authors": [
+    "Carolina Powers <carolinapoloni@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "bootstrap": "~3.3.6"
+  }
+}
